@@ -1,0 +1,14 @@
+C:\Users\monic\Documents\proyecto\estructura\bin\Debug\net8.0\estructura.exe
+C:\Users\monic\Documents\proyecto\estructura\bin\Debug\net8.0\estructura.deps.json
+C:\Users\monic\Documents\proyecto\estructura\bin\Debug\net8.0\estructura.runtimeconfig.json
+C:\Users\monic\Documents\proyecto\estructura\bin\Debug\net8.0\estructura.dll
+C:\Users\monic\Documents\proyecto\estructura\bin\Debug\net8.0\estructura.pdb
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.AssemblyInfoInputs.cache
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.AssemblyInfo.cs
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.csproj.CoreCompileInputs.cache
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.dll
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\refint\estructura.dll
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.pdb
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\estructura.genruntimeconfig.cache
+C:\Users\monic\Documents\proyecto\estructura\obj\Debug\net8.0\ref\estructura.dll
